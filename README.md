@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/nothing2feel">
+  <a href="https://discord.com/users/415168236557041675">
     <img src="https://img.shields.io/badge/DISCORD-@nothing2feel-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/woetflex">
@@ -22,13 +22,13 @@
 <h2 align="center">𓆩 discord profile 𓆪</h2>
 
 <p align="center">
-  <a href="https://discord.com/users/nothing2feel">
-    <img src="https://lanyard.cnrad.dev/api/nothing2feel?theme=dark&bg=09090b&borderRadius=15px&idleMessage=probably%20doing%20something%20else" width="420" />
+  <a href="https://discord.com/users/415168236557041675">
+    <img src="https://lanyard.cnrad.dev/api/415168236557041675?theme=dark&bg=09090b&borderRadius=15px&idleMessage=real%20ones%20stay&hideDiscrim=true" width="420" alt="Discord profile and live status" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/nothing2feel">
+  <a href="https://discord.com/users/415168236557041675">
     <img src="https://img.shields.io/badge/➕_ADD_FRIEND-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
