@@ -52,15 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woetflex&layout=compact&theme=midnight-purple&hide_border=true&bg_color=09090b&title_color=a855f7" width="41%" />
 </p>
 
-<h2 align="center">𓆩 my badges 𓆪</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
 <p align="center">
   <i>「 nothing to lose 」</i>
 </p>
