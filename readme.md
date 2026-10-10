@@ -19,7 +19,7 @@
 
 ---
 
-<h2 align="center">𓆩 discord profile 𓆪</h2>
+<h2 align="center"> discord profile </h2>
 
 <p align="center">
   <a href="https://discord.com/users/415168236557041675">
@@ -43,6 +43,7 @@
 
 <p align="center">
 https://discord.gg/flex
+  
 https://discord.gg/1945
 </p>
 
