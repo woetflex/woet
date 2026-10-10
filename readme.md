@@ -39,12 +39,11 @@
 
 ---
 
-<h2 align="center">𓆩 about me 𓆪</h2>
+<h2 align="center"> about me </h2>
 
 <p align="center">
-  developer in progress<br/>
-  interested in linux and coding<br/>
-  creating my own world
+https://discord.gg/flex
+https://discord.gg/1945
 </p>
 
 <p align="center">
