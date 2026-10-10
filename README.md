@@ -1,34 +1,64 @@
-
-
-
-discord : @nothing2feel
-
-
 # woetflex
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:312e81,100:7c3aed&height=200&section=header&text=woetflex&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=lost%20in%20my%20own%20world&descAlignY=60&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:24104f,100:7c3aed&height=220&section=header&text=woetflex&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=lost%20in%20my%20own%20world&descAlignY=60&descSize=17" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=building+in+silence;less+talk+more+code;welcome+to+my+world" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=less+talk+more+code;lost+in+my+own+world;nothing+to+lose" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=woetflex&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" />
+  <a href="https://discord.com/users/nothing2feel">
+    <img src="https://img.shields.io/badge/DISCORD-@nothing2feel-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/woetflex">
+    <img src="https://img.shields.io/badge/GITHUB-woetflex-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### about me
-
-- developer in progress
-- interested in linux and coding
-- creating my own world
+<h2 align="center">𓆩 discord profile 𓆪</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=woetflex&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=09090b" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woetflex&layout=compact&theme=midnight-purple&hide_border=true&bg_color=09090b" width="41%" />
+  <a href="https://discord.com/users/nothing2feel">
+    <img src="https://lanyard.cnrad.dev/api/nothing2feel?theme=dark&bg=09090b&borderRadius=15px&idleMessage=probably%20doing%20something%20else" width="420" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/nothing2feel">
+    <img src="https://img.shields.io/badge/➕_ADD_FRIEND-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>real ones stay.</i>
+</p>
+
+---
+
+<h2 align="center">𓆩 about me 𓆪</h2>
+
+<p align="center">
+  developer in progress<br/>
+  interested in linux and coding<br/>
+  creating my own world
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=woetflex&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=09090b&title_color=a855f7&icon_color=a855f7" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woetflex&layout=compact&theme=midnight-purple&hide_border=true&bg_color=09090b&title_color=a855f7" width="41%" />
+</p>
+
+<h2 align="center">𓆩 my badges 𓆪</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
