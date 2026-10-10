@@ -43,7 +43,6 @@
 
 <p align="center">
 https://discord.gg/flex
-  
 https://discord.gg/1945
 </p>
 
