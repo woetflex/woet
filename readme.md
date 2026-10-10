@@ -1,5 +1,3 @@
-# woetflex
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:24104f,100:7c3aed&height=220&section=header&text=woetflex&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=lost%20in%20my%20own%20world&descAlignY=60&descSize=17" width="100%" />
 </p>
@@ -47,7 +45,6 @@ https://discord.gg/1945
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=woetflex&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=09090b&title_color=a855f7&icon_color=a855f7" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woetflex&layout=compact&theme=midnight-purple&hide_border=true&bg_color=09090b&title_color=a855f7" width="41%" />
 </p>
 
