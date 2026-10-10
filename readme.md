@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=less+talk+more+code;lost+in+my+own+world;nothing+to+lose" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=we+are+never+lose;lost+in+my+own+world;nothing+to+lose" />
 </p>
 
 <p align="center">
