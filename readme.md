@@ -45,9 +45,5 @@ https://discord.gg/1945
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=woetflex&layout=compact&theme=midnight-purple&hide_border=true&bg_color=09090b&title_color=a855f7&langs_count=6" width="41%" />
-</p>
-
-<p align="center">
   <i>「 nothing to lose 」</i>
 </p>
