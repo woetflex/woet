@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <i>real ones stay.</i>
+  <i>always winner.</i>
 </p>
 
 ---
